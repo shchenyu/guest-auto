@@ -1,0 +1,1331 @@
+{
+    "name": "DTV",
+    "author": " update 6/5/69",
+    "image": "https://play-lh.googleusercontent.com/JT8xNlmw6JaAii2dAwd3v8XIRhWaFqR_uLnpuVrEIYARbi9q9WbTKzVTaBwqpALuEV8",
+    "url": "https://raw.githubusercontent.com/abh210022/mom-auto/refs/heads/main/MOM.w3u",
+    "stations": [
+        {
+            "name": "CH 3",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
+            "url": "https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0003/HLS/B0003-avc1_5000000=10004-mp4a_9600_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-107-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "CH 3",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
+            "url": "https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8",
+            "referer": "https://ch3plus.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "ONE 31",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+            "url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0012/HLS/B0012-avc1_5000000=10004-mp4a_9600_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-37-237-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "ONE 31",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+            "url": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8",
+            "referer": "https://www.oned.net",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "CH7",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+            "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018-avc1_5000000=10004-mp4a_9600_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "CH 7",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+            "url": "https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8",
+            "referer": "https://live-cdn.ch7.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "GMM 25",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+            "url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/HLS/B0019-avc1_2500000=10003-mp4a_96000_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-37-37-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "GMM 25",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+            "url": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8",
+            "referer": "https://bcovlive-a.akamaihd.net/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "CH 8",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
+            "url": "https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0006/HLS/B0006-avc1_2500000=10003-mp4a_96000_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-37-236-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "CH 8",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
+            "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
+            "referer": "https://prsmedia-mykojh.cdn.byteark.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Workpoint TV",
+            "image": "https://play-lh.googleusercontent.com/bJILcQMQTFaxekVCL5jfqJaiAVcN-wILhXpwG7hMrQyM2Kmxkz1wxDXbDyewKI--Ow=w240-h480-rw",
+            "url": "https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/B0015-avc1_2500000=10003-mp4a_96000_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-109-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Workpoint TV",
+            "image": "https://play-lh.googleusercontent.com/bJILcQMQTFaxekVCL5jfqJaiAVcN-wILhXpwG7hMrQyM2Kmxkz1wxDXbDyewKI--Ow=w240-h480-rw",
+            "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd",
+            "referer": "https://cco-streamer1.cdn.3bbtv.com",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "MONO 29",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+            "url": "https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/W0016/HLS/W0016.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-101-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "MONO 29",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+            "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
+            "referer": "https://wandering-oldman.github.io/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "MCOT 30",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
+            "url": "https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0008/HLS/B0008-avc1_5500000=10004-mp4a_96000_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-109-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "MCOT 30",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
+            "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd",
+            "referer": "https://wandering-oldman.github.io/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "ไทยรัฐ 32",
+            "image": "https://www.thairath.co.th/assets/tv/img/share_tv.jpg",
+            "url": "https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013-avc1_5500000=10004-mp4a_96000_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-107-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "ไทยรัฐ 32",
+            "image": "https://www.thairath.co.th/assets/tv/img/share_tv.jpg",
+            "url": "https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8",
+            "referer": "https://www.thairath.co.th/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "ททบ 5",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
+            "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0007/HLS/B0007-avc1_5500000=10004-mp4a_96000_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "ททบ 5",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
+            "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+            "referer": "https://639bc5877c5fe.streamlock.net/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "AMARIN 34",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
+            "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B0017-avc1_5500000=10004-mp4a_96000_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "AMARIN 34",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
+            "url": "https://ww.dooballfree.vip/live/amarintv/playlist.m3u8",
+            "referer": "https://ww.dooballfree.vip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "PPTV",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+            "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022-avc1_5500000=10004-mp4a_96000_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "PPTV",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+            "url": "http://119.59.118.168/live/ch48/Ultraman008/index.m3u8",
+            "referer": "http://119.59.118.168/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "TRUE 4 U",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
+            "url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds//B0054/HLS/B0054-avc1_2000000=10003-mp4a_96000_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-37-237-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "TRUE 4 U",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
+            "url": "https://iptv36.vercel.app/api/true.m3u8?channel=true4u",
+            "referer": "https://iptv36.vercel.app/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "NBT 2",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+            "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/HLS/B0001.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "NBT 2",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+            "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8",
+            "referer": "https://prdee.prd.go.th/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "THAI PBS",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+            "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0014/HLS/B0014-avc1_5000000=10004-mp4a_96000_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "THAI PBS",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+            "url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+            "referer": "https://thaipbs-live.cdn.byteark.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "TNN 16",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
+            "url": "https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0053/HLS/V0053.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-109-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "TNN 16",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
+            "url": "https://www.tnnthailand.com/live/",
+            "referer": "https://www.tnnthailand.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "isDirect": "true"
+        },
+        {
+            "name": "NATION 22",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
+            "url": "https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0021/HLS/B0021.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-107-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "NATION 22",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
+            "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8",
+            "referer": "https://www.nationtv.tv/category/nationtv/live",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "ASTV NEW1",
+            "image": "https://news1live.com/images/social-share-logo.png",
+            "url": "http://news1.live14.com/stream/news1_mid.m3u8",
+            "referer": "http://news1.live14.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "ASTV NEW1",
+            "image": "https://news1live.com/images/social-share-logo.png",
+            "url": "https://server1.streamssl.com/stream/news1_mid.m3u8",
+            "referer": "https://server1.streamssl.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "TPTV",
+            "image": "https://i.imgur.com/Jrqo8JP.png",
+            "url": "https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org",
+            "referer": "https://tv-live.tpchannel.org/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "TOP NEWS-JKN 18",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png",
+            "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
+            "referer": "https://live.topnews.co.th/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "TOP NEWS-JKN 18",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",
+            "url": "https://tv.trueid.net/th-th/live/tid-top-news",
+            "referer": "https://tv.trueid.net/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "T Sports 7",
+            "image": "https://play-lh.googleusercontent.com/0Q5aJHzMThb8R7nKNmRY2SZAO1VNVl9ShlICdazU0tCSfDkjM89LV7WqAqF4L_jdjQ=w240-h480-rw",
+            "url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0129/HLS/B0129.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-37-237-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "T Sports 7",
+            "image": "https://play-lh.googleusercontent.com/0Q5aJHzMThb8R7nKNmRY2SZAO1VNVl9ShlICdazU0tCSfDkjM89LV7WqAqF4L_jdjQ=w240-h480-rw",
+            "url": "https://dookeela4.live/live-tv/tsports7",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "True Sports 1",
+            "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+            "url": "https://dookeela4.live/live-tv/tsp1",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 1",
+            "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+            "url": "https://www.livedoomovies.com:4431/02_sport1_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 2",
+            "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+            "url": "https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8",
+            "referer": "https://www.movie2k.io/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 2",
+            "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+            "url": "https://dookeela4.live/live-tv/tsp2",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 3",
+            "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
+            "url": "https://dookeela4.live/live-tv/tsp3",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 3",
+            "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
+            "url": "https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 4",
+            "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",
+            "url": "https://www.88-hd.com/?r=tv_view&id=35",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 4",
+            "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",
+            "url": "https://dookeela4.live/live-tv/tsp4",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 5",
+            "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+            "url": "https://ball67.com/channels/truesports5/",
+            "referer": "https://ball67.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 5",
+            "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+            "url": "https://www.livedoomovies.com:4431/02_sport5_720p/playlist.m3u8",
+            "referer": "https://www.movie2k.io/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 7",
+            "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+            "url": "https://ball67.com/channels/truesports7/",
+            "referer": "https://ball67.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 7",
+            "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+            "url": "https://www.88-hd.com/?r=tv_view&id=38",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "TRUE TENNIS",
+            "image": "https://ball67.com/assets/channels-logo/truetennis.png",
+            "url": "https://ball67.com/channels/truetennis/",
+            "referer": "https://ball67.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "BEIN 1",
+            "image": "https://ball67.com/assets/channels-logo/bein1.png",
+            "url": "https://www.livedoomovies.com:4431/02_epl1_720p/playlist.m3u8",
+            "referer": "https://www.movie2k.io/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "BEIN 1",
+            "image": "https://ball67.com/assets/channels-logo/bein1.png",
+            "url": "https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
+            "referer": "https://warpdooball.net/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "BEIN 1",
+            "image": "https://ball67.com/assets/channels-logo/bein1.png",
+            "url": "https://love.xapubeke.workers.dev/vx-origin/epl-bein1_720/playlist.m3u8",
+            "referer": "https://love.xapubeke.workers.dev/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "BEIN 2",
+            "image": "https://ball67.com/assets/channels-logo/bein2.png",
+            "url": "https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8",
+            "referer": "https://www.movie2k.io/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "BEIN 2",
+            "image": "https://ball67.com/assets/channels-logo/bein2.png",
+            "url": "https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8",
+            "referer": "https://warpdooball.net/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "BEIN 3",
+            "image": "https://ball67.com/assets/channels-logo/bein3.png",
+            "url": "https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8",
+            "referer": "https://www.movie2k.io/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "BEIN 3",
+            "image": "https://ball67.com/assets/channels-logo/bein3.png",
+            "url": "https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8",
+            "referer": "https://warpdooball.net/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "BEIN 4",
+            "image": "https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",
+            "url": "https://ball67.com/channels/bein4/",
+            "referer": "https://ball67.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "BEIN 5",
+            "image": "https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp",
+            "url": "https://www.livedoomovies.com:4431/02_epl5_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "BEIN 6",
+            "image": "https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp",
+            "url": "https://www.livedoomovies.com:4431/02_epl6_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "BEIN 7",
+            "image": "https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",
+            "url": "https://www.livedoomovies.com:4431/02_epl7_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True  Football 3",
+            "image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+            "url": "https://www.livedoomovies.com:4431/02_PremierHD3_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True  Football 4",
+            "image": "https://cms.dmpcdn.com/livetv/2025/10/27/ec2fe140-b303-11f0-9a71-5d73f0864d0d_webp_original.webp",
+            "url": "https://www.livedoomovies.com:4431/02_PremierHD4_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True  Football 5",
+            "image": "https://cms.dmpcdn.com/livetv/2025/10/27/ebba3c10-b303-11f0-b265-23dfa726a2d7_webp_original.webp",
+            "url": "https://ball67.com/channels/tpf5/",
+            "referer": "https://ball67.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "SPOTV 1",
+            "image": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+            "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/spotv.m3u8",
+            "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "SPOTV 2",
+            "image": "https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+            "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/spotv2.m3u8",
+            "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 1",
+            "image": "https://ball67.com/assets/channels-logo/monomax-1.png",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "MONOMAX 1",
+            "image": "https://ball67.com/assets/channels-logo/monomax-1.png",
+            "url": "https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
+            "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "MONOMAX 1",
+            "image": "https://ball67.com/assets/channels-logo/monomax-1.png",
+            "url": "https://love.1fmz7npue0.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8",
+            "referer": "https://love.1fmz7npue0.workers.dev/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "MONOMAX 2",
+            "image": "https://ball67.com/assets/channels-logo/monomax-2.png",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "MONOMAX 2",
+            "image": "https://ball67.com/assets/channels-logo/monomax-2.png",
+            "url": "https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX2.m3u8",
+            "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "MONOMAX 2",
+            "image": "https://ball67.com/assets/channels-logo/monomax-2.png",
+            "url": "https://love.1fmz7npue0.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8",
+            "referer": "https://love.1fmz7npue0.workers.dev/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "MONOMAX 3",
+            "image": "https://ball67.com/assets/channels-logo/monomax-3.png",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_3HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 3",
+            "image": "https://ball67.com/assets/channels-logo/monomax-3.png",
+            "url": "https://ball67.com/channels/monomax3/",
+            "referer": "https://ball67.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 4",
+            "image": "https://ball67.com/assets/channels-logo/monomax-4.png",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_4HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 4",
+            "image": "https://ball67.com/assets/channels-logo/monomax-4.png",
+            "url": "https://ball67.com/channels/monomax4/",
+            "referer": "https://ball67.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 5",
+            "image": "https://www.imgx02.xyz/assets/img/ch_logo/PL_Mono5.jpg",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_5HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 6",
+            "image": "https://www.imgx03.xyz/assets/img/ch_logo/PL_Mono6.jpg",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_6HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 7",
+            "image": "https://www.imgx04.xyz/assets/img/ch_logo/PL_Mono7.jpg",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_7HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 8",
+            "image": "https://www.imgx05.xyz/assets/img/ch_logo/PL_Mono8.jpg",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_8HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "PLAY SPORTS FOOTBALL 1 ",
+            "image": "https://dookeela2.live/uploads/1754476003.png",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_1HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "PLAY SPORTS FOOTBALL 2 ",
+            "image": "https://dookeela2.live/uploads/1754969046.png",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_2HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "PLAY SPORTS FOOTBALL 3 ",
+            "image": "https://dookeela2.live/uploads/1754968579.png",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_3HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "PLAY SPORTS FOOTBALL 4 ",
+            "image": "https://dookeela2.live/uploads/1754968644.png",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_4HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "PLAY SPORTS FOOTBALL 5 ",
+            "image": "https://dookeela2.live/uploads/1754968657.png",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_5HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "PLAY SPORTS FOOTBALL 6 ",
+            "image": "https://dookeela2.live/uploads/1754968665.png",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_6HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "PLAY SPORTS FOOTBALL 7 ",
+            "image": "https://dookeela2.live/uploads/1754968677.png",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_7HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "LFC TV",
+            "image": "https://images.webapi.gc.lfc-services.co.uk/fit-in/800x450/c7270930-a160-11ed-aa9d-03c6add3a597.jpg",
+            "url": "https://cdn1.goozaa.xyz/dkls/lfctv/playlist.m3u8?wmsAuth=",
+            "referer": "https://ballonair.online/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "info": "Eng 🇬🇧"
+        },
+        {
+            "name": "MU TV",
+            "image": "https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",
+            "url": "https://ball67.com/channels/mutv/",
+            "referer": "https://ball67.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "info": "Eng 🇬🇧"
+        },
+        {
+            "name": "SPOTV 1",
+            "image": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_320.webp",
+            "url": "https://cdn1.goozaa.xyz/dkls/spotv/playlist.m3u8?wmsAuth=",
+            "referer": "https://ballonair.online/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "SPOTV 2",
+            "image": "https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_320.webp",
+            "url": "https://cdn1.goozaa.xyz/dkls/spotv2/playlist.m3u8?wmsAuth=",
+            "referer": "https://ballonair.online/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "NBA TV ",
+            "image": "https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",
+            "url": "https://cdn1.goozaa.xyz/dkls/nba/playlist.m3u8?wmsAuth=",
+            "referer": "https://ballonair.online/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0",
+            "playInNatPlayer": "true",
+            "info": "🇹🇭"
+        },
+        {
+            "name": "Golf Channel Thailand",
+            "image": "https://ball67.com/assets/channels-logo/golfchannel.png",
+            "url": "https://ball67.com/channels/golfchannelthailand/",
+            "referer": "https://ball67.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "Golf Channel USA ",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png",
+            "url": "https://daddylive.dad/stream/stream-318.php",
+            "referer": "https://daddylive.dad/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Sky Sports F1 | UK",
+            "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84eaecdb3c6146f8076d566483",
+            "url": "https://chevy.soyspace.cyou/proxy/wind/premium60/mono.css",
+            "referer": "https://adffdafdsafds.sbs/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Sky Sports Football UK",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sky-sports-football.jpg",
+            "url": "https://chevy.soyspace.cyou/proxy/top2/eplayerskyfoot/mono.css",
+            "referer": "https://viewembed.ru/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Sky Sports Golf | UK",
+            "image": "https://www.prolificnorth.co.uk/wp-content/uploads/2015/02/skysportsgolf_0.png",
+            "url": "https://chevy.soyspace.cyou/proxy/wind/premium70/mono.css",
+            "referer": "https://adffdafdsafds.sbs/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Sky Sports Main Event UK",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",
+            "url": "https://chevy.soyspace.cyou/proxy/top2/eplayerskymain2/mono.css",
+            "referer": "https://viewembed.ru/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Sky Sports Mix | UK",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysportsmix.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Sky Sports Premier League UK",
+            "image": "https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg",
+            "url": "https://chevy.soyspace.cyou/proxy/top2/eplayerSKYPL/mono.css",
+            "referer": "https://viewembed.ru/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Sky Sports Racing | UK",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Sky_sports_racing.png",
+            "url": "https://chevy.soyspace.cyou/proxy/wind/premium554/mono.css",
+            "referer": "https://adffdafdsafds.sbs/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "NBA TV USA",
+            "image": "https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",
+            "url": "https://daddylive.dad/stream/stream-404.php",
+            "referer": "https://daddylive.dad/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "WWE Network ",
+            "image": "https://zonawrestling.net/wp-content/uploads/2021/01/25/wwe-network.jpg",
+            "url": "https://dookeela2.live/live-tv/wwe#",
+            "referer": "https://dookeela2.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "World Snooker Tour ",
+            "image": "https://play-lh.googleusercontent.com/KYHOO8breeJ8N8ej8q1Ag-7Rmld6q3Ucl6HRSEKWQyEnSlAwRtSVhP7JTw349AN0mE0",
+            "imageScale": "centerCrop",
+            "url": "https://www.youtube.com/@worldsnookertour/streams"
+        },
+        {
+            "name": "Eurosport 1 | Spain",
+            "image": "https://dookeela.live/uploads/1711566124.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/eurosport1spain.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Eurosport 2 | Spain",
+            "image": "https://dookeela.live/uploads/1711566136.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/eurosport2spain.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "ESPN1",
+            "image": "https://images.seeklogo.com/logo-png/28/2/espn-logo-png_seeklogo-283139.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn1.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "ESPN2",
+            "image": "https://images.seeklogo.com/logo-png/4/2/espn-2-logo-png_seeklogo-49202.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn2.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "ESPN3",
+            "image": "https://awfulannouncing.com/wp-content/uploads/sites/94/2025/12/ESPN3-Logo-615x405-1-e1765397464990.jpg",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn3.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "ESPN4",
+            "image": "https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn4.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Foxsport501",
+            "image": "https://api.bigwifegang.org/images/png/au-fox501.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport501.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Foxsport502",
+            "image": "https://api.bigwifegang.org/images/png/au-fox502.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport502.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Foxsport503",
+            "image": "https://api.bigwifegang.org/images/png/au-fox503.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport503.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Foxsport504",
+            "image": "https://api.bigwifegang.org/images/png/au-fox504.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport504.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Foxsport505",
+            "image": "https://api.bigwifegang.org/images/png/au-fox505.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport505.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "TSN 1",
+            "image": "https://dookeela2.live/uploads/1685553673.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tsn1.m3u8",
+            "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "TSN 2",
+            "image": "https://dookeela2.live/uploads/1685553680.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tsn2.m3u8",
+            "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "TSN 3",
+            "image": "https://dookeela2.live/uploads/1685553687.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tsn3.m3u8",
+            "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "TSN 4",
+            "image": "https://dookeela2.live/uploads/1685553694.png",
+            "url": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tsn4.m3u8",
+            "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "FWCartoon",
+            "image": "https://www.i-pic.info/i/xWFQ662557.jpg",
+            "url": "https://www.inwiptv.biz/player_demo.php?channel=92941",
+            "referer": "https://www.inwiptv.biz/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "TRUE SPARK PLAY",
+            "image": "https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",
+            "url": "https://dkl-c33es.cdn.akamaiz.com/doofootballfun/truesparkplay/playlist.m3u8",
+            "referer": "https://dookeela2.live/live-tv",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "CARTOON NETWORK",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",
+            "url": "https://dkl-c33es.cdn.akamaiz.com/doofootballfun/cartoon-network/playlist.m3u8",
+            "referer": "https://dookeela2.live/live-tv",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": " DreamWorks ",
+            "image": "https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/DreamWorks.webp",
+            "url": "https://dkl-c33es.cdn.akamaiz.com/doofootballfun/dreamworks/playlist.m3u8",
+            "referer": "https://dookeela2.live/live-tv",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Boomerang (Thai)",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2025.png",
+            "url": "https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104-avc1_3000000=4-mp4a_96000_tha=9.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-37-229-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "CARTOON CLUB",
+            "image": "https://yt3.googleusercontent.com/ytc/AIdro_kLB8PQMp1GGFoPivp39GdwJiUFXT-wMAu7Qojb8I-KJBA=s900-c-k-c0x00ffffff-no-rj",
+            "url": "https://dookeela2.live/live-tv/cartoonclub",
+            "referer": "https://dookeela2.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "ANIMAX",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png",
+            "url": "https://dookeela2.live/live-tv/animax#",
+            "referer": "https://dookeela2.live/live-tv",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "cartoonito ",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png",
+            "url": "https://dookeela2.live/live-tv/cartoonito#",
+            "referer": "https://dookeela2.live/live-tv",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "NICK JR",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/1200px-Nick_Jr._Channel_logo.svg.png",
+            "url": "https://daddylive.dad/stream/stream-329.php",
+            "referer": "https://daddylive.dad/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Disney XD",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png",
+            "url": "https://daddylive.dad/stream/stream-314.php",
+            "referer": "https://daddylive.dad/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Disney Jr",
+            "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf5f9962-2aa6-4d6c-ad48-493d36996bd2/dfphrzn-4c0decbe-e539-44c8-9d25-0ee8acfcae63.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmNWY5OTYyLTJhYTYtNGQ2Yy1hZDQ4LTQ5M2QzNjk5NmJkMlwvZGZwaHJ6bi00YzBkZWNiZS1lNTM5LTQ0YzgtOWQyNS0wZWU4YWNmY2FlNjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.x32OOMrEXPYBANe2i9QmBFIk21TlZnvrxyQVYOgHF1c",
+            "url": "https://daddylive.dad/stream/stream-652.php",
+            "referer": "https://daddylive.dad/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Disney Channel",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png",
+            "url": "https://daddylive.dad/stream/stream-312.php",
+            "referer": "https://daddylive.dad/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Universal Kids",
+            "image": "https://kidscreen.com/wp/wp-content/uploads/2019/06/universalkids-logo.jpg",
+            "url": "https://daddylive.dad/stream/stream-668.php",
+            "referer": "https://daddylive.dad/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Movies1",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",
+            "url": "http://49.0.64.96:8007/Cartoonumi",
+            "referer": "https://49.0.64.96:8007",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Movies2",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",
+            "url": "http://49.0.64.96:8007/IZAA",
+            "referer": "https://49.0.64.96:8007",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Movies3",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",
+            "url": "http://49.0.64.96:8007/SERIES",
+            "referer": "https://49.0.64.96:8007",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Movies4",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",
+            "url": "http://49.0.64.96:8007/PING",
+            "referer": "https://49.0.64.96:8007",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "FuckIDMovie ™ ",
+            "image": "https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",
+            "url": "http://49.0.64.96:8007/PING",
+            "referer": "https://dookeela2.live/",
+            "info": "dookeela",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+        },
+        {
+            "name": "FuckIDSeries ™ ",
+            "image": "https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",
+            "url": "http://49.0.64.96:8007/SERIES",
+            "referer": "https://dookeela2.live/",
+            "info": "dookeela",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+        },
+        {
+            "name": "True Film 1 HD",
+            "image": "https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",
+            "url": "https://dookeela4.live/live-tv/truefilm1",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": " TrueFilm HD2 ™",
+            "image": "https://www.dropbox.com/scl/fi/yw1ge4k3h1y77fum9ee8f/True-Film-HD2.png?rlkey=ilziwx63yxk36aj3ynrnzunzo&dl=1",
+            "url": "https://dookeela4.live/live-tv/truefilm2",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "True Asian More",
+            "image": "https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/ftree.webp",
+            "url": "https://dookeela4.live/live-tv/trueasianmore",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "True Movie Hits",
+            "image": "https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",
+            "url": "https://dookeela4.live/live-tv/truemoviehits",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "True Thai Film",
+            "image": "https://www.dropbox.com/scl/fi/kdeur1nkz0oz4ev9lw9mq/True-thai-Film.png?rlkey=172pz7sob7skkszcbh81xy06a&dl=1",
+            "imageScale": "fitStart",
+            "url": "https://dookeela4.live/live-tv/truethaifilm",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "True Series ™ ",
+            "image": "https://www.dropbox.com/scl/fi/tpasyqucwju5kkpzbf3a3/trueseries.jpg?rlkey=91wbskjvxfx5pvvtxb5abj6qe&dl=1",
+            "url": "https://dookeela4.live/live-tv/trueseries",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "TRUE FILM ASIA",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdapmNP-C0b9EIe12AbdqfxxWMc0AXOCPyw&usqp=CAU",
+            "url": "https://dookeela4.live/live-tv/truefilmasia",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Paramount",
+            "image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-paramount-hd.webp",
+            "url": "https://dookeela4.live/live-tv/paramount-network",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "WarnerTV",
+            "image": "https://www.img06.xyz/assets/img/ch_logo/hd-warnertv.png",
+            "url": "https://dookeela4.live/live-tv/warnertv",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Universal",
+            "image": "https://logos-world.net/wp-content/uploads/2021/11/Universal-Logo.png",
+            "url": "http://49.0.64.96:8007/H-Channel",
+            "referer": "https://49.0.64.96:8007",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "HBO HD ",
+            "image": "https://www.dropbox.com/scl/fi/zboa5ym11du5v4cout0vf/HBO.jpg?rlkey=nemqup2kvzd7eyeudz53vfwax&dl=1",
+            "url": "https://dookeela4.live/live-tv/hbo",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "HBO HITS",
+            "image": "https://www.dropbox.com/scl/fi/wst4id7qcsy0kdywe086x/HBO-Hit.png?rlkey=vn2b4l454h37b5vkawgmoyk4y&dl=1",
+            "url": "https://dookeela4.live/live-tv/hbo-hits",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "HBO FAMILY",
+            "image": "https://www.dropbox.com/scl/fi/ff635bxqigv2e06qvyizf/HBO-Family.png?rlkey=sdkq4u6k0j5yrknsvpa3lyxby&dl=1",
+            "url": "https://dookeela4.live/live-tv/hbo-family",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "HBOSIGNATURE",
+            "image": "https://www.dropbox.com/scl/fi/0yslbgc5ub5bd9h51ufaw/HBO-Signature.jpg?rlkey=b86uajzg5ucklx9j6xk0pfgah&dl=1",
+            "url": "https://dookeela4.live/live-tv/hbo-signature",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "CINEMAX",
+            "image": "https://www.dropbox.com/scl/fi/z4jjco5prtb1piwu401ay/Cinemax.jpeg?rlkey=crfrxv951aetp6avydmoeyuxp&dl=1",
+            "url": "https://dookeela4.live/live-tv/hbo-signature",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": " 3BBASIAN",
+            "image": "https://www.dropbox.com/scl/fi/io0i5r9ogo7cw2teovn52/3BB-Asia.png?rlkey=dha9wfgn6bvv5gu6jkth6logq&dl=1",
+            "url": "https://wandering-oldman.github.io/3bb-asian/3bb-asian.html",
+            "embed": "true",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "MONO29 +",
+            "image": "https://www.dropbox.com/scl/fi/spi5xwl4vo2nv6yhi1unc/mono-plus.jpg?rlkey=2c1ki02ph5hnw2ac1wdzfc68c&dl=1",
+            "url": "https://dookeela4.live/live-tv/mono29plus",
+            "referer": "https://dookeela4.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Rock Action",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",
+            "url": "https://github.com/cattviptv2605/movies/raw/refs/heads/main/rockaction.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Rock Enterainment",
+            "image": "https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",
+            "url": "https://github.com/cattviptv2605/movies/raw/refs/heads/main/rockenterainment.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "iQIYI",
+            "image": "https://dookeela4.live/uploads/1706405008.png",
+            "url": "https://dookeela4.live/live-tv/iqiyi",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Discovery Channel (EN)",
+            "image": "https://www.waterstudio.nl/wp-content/uploads/2010/01/Waterstudio-news-discoverychannel1.png",
+            "url": "https://dookeela4.live/live-tv/discovery",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "Discovery Asia",
+            "image": "https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.jpg",
+            "url": "https://dkl-c33es.cdn.akamaiz.com/doofootballfun/discovery-asia/playlist.m3u8",
+            "referer": "https://dookeela4.live/live-tv",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "True Explore Life",
+            "image": "https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/True_Explore_Life.webp",
+            "url": "https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorelife.m3u8",
+            "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "True Explore Wild",
+            "image": "https://dookeela4.live/uploads/1724166218.png",
+            "url": "https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorewild.m3u8",
+            "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "trueEXPLORESCI",
+            "image": "https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",
+            "url": "https://dookeela4.live/live-tv/trueexploresci",
+            "referer": "https://dookeela.live/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "BBCearthสำรอง1",
+            "image": "https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0",
+            "url": "https://github.com/cattviptv2605/documentary/raw/refs/heads/main/bbcearth.m3u8",
+            "referer": "https://github.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "History Channel",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png",
+            "url": "https://dookeela4.live/live-tv/history",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Love Nature",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png",
+            "url": "https://dookeela4.live/live-tv/lovenature4k",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "National Geographic",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/640px-National-Geographic-Logo.svg.png",
+            "url": "https://dkl-c33es.cdn.akamaiz.com/doofootballfun/national-geographic/playlist.m3u8",
+            "referer": "https://dookeela4.live/live-tv",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Animal Planet ",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",
+            "url": "https://dkl-c33es.cdn.akamaiz.com/doofootballfun/animal-planet/playlist.m3u8",
+            "referer": "https://dookeela4.live/live-tv",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "สำรวจโลก",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",
+            "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "MySCI",
+            "image": "https://lh3.googleusercontent.com/proxy/1cE3fiXcLStzbVfYjd4CrpeJN7xkxYKtUQZZ3N7iaSUa3KVTo6MeBR9JrZMLJlg84k6DgZLqeZrg7isH00jfQ6a1JURm9p8OWtS-6v-wwEtFZdz4Pt181k3XJjLTVd8",
+            "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Animal Show",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png",
+            "url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Science Channel",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png",
+            "url": "http://49.0.64.96:8007/WSCI",
+            "referer": "https://49.0.64.96:8007",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        }
+    ]
+}
