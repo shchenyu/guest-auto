@@ -9,7 +9,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     # เรียกใช้คอมพิวเตอร์สำเร็จรูปของ Microsoft ที่ลง Playwright ไว้แล้ว
-    container: mcr.microsoft.com/playwright/python:v1.44.0-jammy
+    container: mcr.microsoft.com/playwright/python:v1.59.0-jammy
 
     steps:
       - name: Checkout
