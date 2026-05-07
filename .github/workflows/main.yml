@@ -8,7 +8,7 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    # เรียกใช้คอมพิวเตอร์สำเร็จรูปของ Microsoft ที่ลง Playwright ไว้แล้ว
+  
     container: mcr.microsoft.com/playwright/python:v1.59.0-jammy
 
     steps:
@@ -17,7 +17,7 @@ jobs:
 
       - name: Install Python package
         run: pip install playwright
-        # สังเกตว่าเราตัด playwright install-deps ทิ้งไปเลย เพราะไม่ต้องใช้แล้ว!
+     
 
       - name: Run Update
         run: python main.py
