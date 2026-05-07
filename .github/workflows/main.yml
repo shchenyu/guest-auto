@@ -8,28 +8,24 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    # เรียกใช้คอมพิวเตอร์สำเร็จรูปของ Microsoft ที่ลง Playwright ไว้แล้ว
+    container: mcr.microsoft.com/playwright/python:v1.44.0-jammy
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4   # ✅ อัปแล้ว
+        uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5   # ✅ อัปแล้ว
-        with:
-          python-version: '3.9'
-
-      - name: Install Tools
-        run: |
-          python -m pip install --upgrade pip
-          pip install playwright
-          playwright install chromium
-          playwright install-deps
+      - name: Install Python package
+        run: pip install playwright
+        # สังเกตว่าเราตัด playwright install-deps ทิ้งไปเลย เพราะไม่ต้องใช้แล้ว!
 
       - name: Run Update
         run: python main.py
 
       - name: Save Changes
         run: |
+          # ป้องกัน Error สิทธิ์การเข้าถึงไฟล์ในโหมด Container
+          git config --global --add safe.directory '*'
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
 
