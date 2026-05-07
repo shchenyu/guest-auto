@@ -1334,6 +1334,14 @@
             "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
             "playInNatPlayer": "true"
+        },
+        {
+            "name": "เพลย์สปอต41",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png",
+            "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/RWS001/HLS/RWS001.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=50c8174e457b005968522707e54e7193&chunkHttps=true&tmid=B0003&tpbk=0dKwyOMgx1m828Eb&rrt=1778092381&tmod=rfk&rsid=bd25c478-3fe5-42d2-b527-332c24fe2ca0&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1778178780",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
 }
     ]
 }
