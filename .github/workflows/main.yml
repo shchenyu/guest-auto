@@ -1,0 +1,40 @@
+name: MOM Auto Update
+
+on:
+  schedule:
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4   # ✅ อัปแล้ว
+
+      - name: Set up Python
+        uses: actions/setup-python@v5   # ✅ อัปแล้ว
+        with:
+          python-version: '3.9'
+
+      - name: Install Tools
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+          playwright install chromium
+          playwright install-deps
+
+      - name: Run Update
+        run: python main.py
+
+      - name: Save Changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+
+          git add MOM.w3u
+          git commit -m "Auto update $(date)" || exit 0
+
+          git pull origin main --rebase
+          git push
