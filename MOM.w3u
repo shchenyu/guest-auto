@@ -1366,6 +1366,22 @@
             "referer": "https://49-231-37-236-rewriter.ais-vidnt.com/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
             "playInNatPlayer": "true"
+        },
+        {
+            "name": "NBT",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+            "url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/HLS/B0001.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=3922e9bc8f0bcb83b109776082bdf87c&chunkHttps=true&tmid=B0003&tpbk=69nlU3vSAct23JAW&rrt=1778154959&tmod=rfk&rsid=df8dee08-0860-4ae5-b2b3-7e58868be8d0&tuid=533ba25076&cdn=redfox-https&tdid=67052ab335ea1defebaf0812e914e585&origin=anevia&tfa=f0-fc&tttl=1778241358",
+            "referer": "https://49-231-37-237-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "TPBS",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+            "url": "https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0014/HLS/B0014.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=3922e9bc8f0bcb83b109776082bdf87c&chunkHttps=true&tmid=B0003&tpbk=69nlU3vSAct23JAW&rrt=1778154959&tmod=rfk&rsid=df8dee08-0860-4ae5-b2b3-7e58868be8d0&tuid=533ba25076&cdn=redfox-https&tdid=67052ab335ea1defebaf0812e914e585&origin=anevia&tfa=f0-fc&tttl=1778241358",
+            "referer": "https://49-231-34-101-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
         }
     ]
 }
