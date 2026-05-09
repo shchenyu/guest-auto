@@ -389,6 +389,14 @@
             "playInNatPlayer": "true"
         },
         {
+            "name": "เพลย์สปอต422",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PlaySports41_RWS.png",
+            "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/RWS002/HLS/RWS002.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=842ef319932bd7d1e712178cc2e8875c&chunkHttps=true&tmid=B0003&tpbk=b9z6qg4DPckIUr0K&rrt=1778271506&tmod=rfk&rsid=d9c67b39-6132-47da-b105-e38fa847163a&tuid=533ba25076&cdn=redfox-https&tdid=67052ab335ea1defebaf0812e914e585&origin=anevia&tfa=f0-fc&tttl=1778357904",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
             "name": "Thainess",
             "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png",
             "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/HLS/V0155.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=842ef319932bd7d1e712178cc2e8875c&chunkHttps=true&tmid=B0003&tpbk=b9z6qg4DPckIUr0K&rrt=1778271506&tmod=rfk&rsid=d9c67b39-6132-47da-b105-e38fa847163a&tuid=533ba25076&cdn=redfox-https&tdid=67052ab335ea1defebaf0812e914e585&origin=anevia&tfa=f0-fc&tttl=1778357904",
