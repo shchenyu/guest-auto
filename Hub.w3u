@@ -461,6 +461,38 @@
             "playInNatPlayer": "true"
         },
         {
+            "name": "RT Channel",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png",
+            "url": "https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0105/HLS/V0105.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e35694e66ad73130e68eb0070ddd48f1&chunkHttps=true&tmid=B0003&tpbk=nWaN8tsKXvsOQU0r&rrt=1778423133&tmod=rfk&rsid=3bb253ee-466b-4eb6-9777-56c4cd8c94e9&tuid=533ba25076&cdn=redfox-https&tdid=67052ab335ea1defebaf0812e914e585&origin=anevia&tfa=f0-fc&tttl=1778509532",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "DW",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121.png",
+            "url": "https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0121/HLS/V0121.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e35694e66ad73130e68eb0070ddd48f1&chunkHttps=true&tmid=B0003&tpbk=nWaN8tsKXvsOQU0r&rrt=1778423133&tmod=rfk&rsid=3bb253ee-466b-4eb6-9777-56c4cd8c94e9&tuid=533ba25076&cdn=redfox-https&tdid=67052ab335ea1defebaf0812e914e585&origin=anevia&tfa=f0-fc&tttl=1778509532",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "Euro News",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/EuroNnews-1.png",
+            "url": "https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0119/HLS/V0119.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e35694e66ad73130e68eb0070ddd48f1&chunkHttps=true&tmid=B0003&tpbk=nWaN8tsKXvsOQU0r&rrt=1778423133&tmod=rfk&rsid=3bb253ee-466b-4eb6-9777-56c4cd8c94e9&tuid=533ba25076&cdn=redfox-https&tdid=67052ab335ea1defebaf0812e914e585&origin=anevia&tfa=f0-fc&tttl=1778509532",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "France 24",
+            "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0123_1.png",
+            "url": "https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0123/HLS/V0123.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e35694e66ad73130e68eb0070ddd48f1&chunkHttps=true&tmid=B0003&tpbk=nWaN8tsKXvsOQU0r&rrt=1778423133&tmod=rfk&rsid=3bb253ee-466b-4eb6-9777-56c4cd8c94e9&tuid=533ba25076&cdn=redfox-https&tdid=67052ab335ea1defebaf0812e914e585&origin=anevia&tfa=f0-fc&tttl=1778509532",
+            "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+            "playInNatPlayer": "true"
+        },
+        {
             "name": "Thainess",
             "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png",
             "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/HLS/V0155.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e35694e66ad73130e68eb0070ddd48f1&chunkHttps=true&tmid=B0003&tpbk=nWaN8tsKXvsOQU0r&rrt=1778423133&tmod=rfk&rsid=3bb253ee-466b-4eb6-9777-56c4cd8c94e9&tuid=533ba25076&cdn=redfox-https&tdid=67052ab335ea1defebaf0812e914e585&origin=anevia&tfa=f0-fc&tttl=1778509532",
