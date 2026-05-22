@@ -12,7 +12,7 @@ from playwright.async_api import async_playwright
 
 W3U_FILE = "Hub.w3u"
 
-TARGET_URL = "https://aisplay.ais.co.th/portal/live/?vid=59592e08bf6aee4e3ecce051"
+TARGET_URL = "https://aisplay.ais.th/portal/live/?vid=59592e08bf6aee4e3ecce051"
 
 
 # ============================================================
