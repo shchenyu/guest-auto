@@ -45,6 +45,8 @@ DAY_NAME_MAP = {
 
 def setup_driver():
     options = Options()
+    # เพิ่ม Page Load Strategy เป็น eager เพื่อให้บอทโหลดเว็บเร็วขึ้นโดยไม่ต้องรอโหลดรูป/CSS ครบ
+    options.page_load_strategy = 'eager' 
     options.add_argument("--headless=new") # ต้องเป็น headless เสมอเมื่อรันบน GitHub
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
@@ -139,9 +141,11 @@ def fetch_besoccer_data(date_list):
 
                 # ปรับจากการใช้ time.sleep(5) เป็นการรอให้โหลดข้อมูลแมตช์สำเร็จ (ประหยัดเวลาและชัวร์กว่า)
                 try:
-                    WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.CSS_SELECTOR, ".match-link")))
+                    # เพิ่มเวลาจาก 15 เป็น 25 วินาทีเผื่อ GitHub Actions ประมวลผลช้า
+                    WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.CSS_SELECTOR, ".match-link")))
                 except Exception as e:
                     print(f"  - [WARNING] ไม่พบข้อมูลแมตช์สำหรับวันที่ {date_str} หรือโหลดช้าเกินไป")
+                    print(f"  - [DEBUG] ตรวจสอบหน้าเว็บขณะ Error: {driver.title}") # ถ้าขึ้นว่า 'Just a moment...' แปลว่าโดนเว็บ BeSoccer บล็อกบอท
                     continue # ข้ามไปยังวันถัดไปหากไม่เจอข้อมูล
 
                 soup = BeautifulSoup(driver.page_source, "html.parser")
@@ -229,10 +233,17 @@ def generate_json_final(processed_matches):
 
 if __name__ == "__main__":
     try:
+        print("[STEP 1] กำลังดึงข้อมูลจากแหล่งหลัก...")
         r = requests.get(PROG_URL, timeout=15)
+        r.raise_for_status() # ดักจับ HTTP Error (เช่น 404, 500)
+        
         dates, matches = process_and_fetch_dates(r.text.splitlines())
         fetch_besoccer_data(dates)
         generate_json_final(matches)
-        print(f"--- SUCCESS: บันทึกไฟล์แล้ว ---")
+        
+        print(f"--- SUCCESS: บันทึกไฟล์สำเร็จแล้วที่ {SAVE_FILE} ---")
+        
+    except requests.exceptions.RequestException as e:
+        print(f"[ERROR] ไม่สามารถเชื่อมต่อเพื่อดาวน์โหลดข้อมูลหลักได้: {e}")
     except Exception as e:
-        print(f"[ERROR]: {e}")
+        print(f"[ERROR] เกิดข้อผิดพลาดในระบบ: {e}")
