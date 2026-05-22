@@ -16,7 +16,7 @@ TARGET_URL = "https://aisplay.ais.co.th/portal/live/?vid=59592e08bf6aee4e3ecce05
 
 
 # ============================================================
-# GET NEW PARAMS FROM AIS PLAY
+# GET NEW PARAMS
 # ============================================================
 
 async def get_new_params():
@@ -42,28 +42,73 @@ async def get_new_params():
             ),
             viewport={"width": 1366, "height": 768},
             locale="th-TH",
+            timezone_id="Asia/Bangkok",
         )
 
         page = await context.new_page()
-
         found_params = asyncio.get_running_loop().create_future()
 
         async def handle_request(request):
             url = request.url
+            lower_url = url.lower()
 
-            if ".m3u8" in url:
-                print("[M3U8]", url[:300])
+            keywords = [
+                ".m3u8",
+                ".mpd",
+                "playback",
+                "stream",
+                "license",
+                "widevine",
+                "manifest",
+                "media",
+                "token",
+                "cdn",
+            ]
 
+            if any(k in lower_url for k in keywords):
+                print("[REQ]", url[:1000])
+
+            # เงื่อนไขหลักแบบเดิม
             if (
-                ".m3u8" in url
-                and "playbackUrlPrefix" in url
+                ".m3u8" in lower_url
+                and "playbackurlprefix" in lower_url
                 and not found_params.done()
             ):
                 if "?" in url:
                     params = url.split("?", 1)[1]
+                    print("[FOUND PARAMS BY playbackUrlPrefix]")
                     found_params.set_result(params)
+                    return
+
+            # เงื่อนไขสำรอง: เจอ m3u8 และมี query string
+            if (
+                ".m3u8" in lower_url
+                and "?" in url
+                and not found_params.done()
+            ):
+                params = url.split("?", 1)[1]
+                print("[FOUND PARAMS BY m3u8]")
+                found_params.set_result(params)
+                return
+
+        async def handle_response(response):
+            url = response.url
+            lower_url = url.lower()
+            status = response.status
+
+            keywords = [
+                ".m3u8",
+                ".mpd",
+                "playback",
+                "stream",
+                "manifest",
+            ]
+
+            if any(k in lower_url for k in keywords):
+                print("[RES]", status, url[:1000])
 
         page.on("request", handle_request)
+        page.on("response", handle_response)
 
         try:
             print("[OPEN]", TARGET_URL)
@@ -71,12 +116,19 @@ async def get_new_params():
             await page.goto(
                 TARGET_URL,
                 wait_until="domcontentloaded",
-                timeout=60000,
+                timeout=90000,
             )
 
-            await asyncio.sleep(3)
+            await asyncio.sleep(5)
 
-            click_selectors = [
+            try:
+                await page.screenshot(path="debug-open.png", full_page=True)
+                print("[DEBUG] Saved screenshot: debug-open.png")
+            except Exception as e:
+                print("[DEBUG] Cannot save debug-open.png:", str(e))
+
+            # ปุ่มที่อาจต้องกด
+            selectors = [
                 "button.login-type-btn.guest",
                 "button.accept-btn",
                 "text=เข้าชมแบบผู้เยี่ยมชม",
@@ -85,29 +137,72 @@ async def get_new_params():
                 "text=ตกลง",
                 "text=Accept",
                 "text=OK",
+                "button:has-text('Accept')",
+                "button:has-text('ยอมรับ')",
+                "button:has-text('ตกลง')",
+                "button:has-text('ผู้เยี่ยมชม')",
             ]
 
-            for selector in click_selectors:
+            for selector in selectors:
                 try:
-                    await page.click(selector, timeout=4000)
+                    await page.click(selector, timeout=5000)
                     print(f"[CLICK] {selector}")
-                    await asyncio.sleep(2)
+                    await asyncio.sleep(3)
                 except Exception:
                     pass
 
+            try:
+                await page.screenshot(path="debug-after-click.png", full_page=True)
+                print("[DEBUG] Saved screenshot: debug-after-click.png")
+            except Exception as e:
+                print("[DEBUG] Cannot save debug-after-click.png:", str(e))
+
+            # ลองกด play ถ้ามี
+            play_selectors = [
+                "button[aria-label='Play']",
+                "button:has-text('Play')",
+                ".vjs-big-play-button",
+                ".jw-icon-playback",
+                ".plyr__control--overlaid",
+                "video",
+            ]
+
+            for selector in play_selectors:
+                try:
+                    await page.click(selector, timeout=5000)
+                    print(f"[PLAY CLICK] {selector}")
+                    await asyncio.sleep(5)
+                except Exception:
+                    pass
+
+            # รอให้เว็บยิง request
             print("[WAIT] Waiting for m3u8 params...")
 
             try:
-                params = await asyncio.wait_for(found_params, timeout=60)
+                params = await asyncio.wait_for(found_params, timeout=90)
                 print("[SUCCESS] Found new params")
                 return params
 
             except asyncio.TimeoutError:
                 print("[ERROR] Not found m3u8 params")
+
+                try:
+                    await page.screenshot(path="debug-timeout.png", full_page=True)
+                    print("[DEBUG] Saved screenshot: debug-timeout.png")
+                except Exception as e:
+                    print("[DEBUG] Cannot save debug-timeout.png:", str(e))
+
                 return None
 
         except Exception as e:
             print("[ERROR] Browser error:", str(e))
+
+            try:
+                await page.screenshot(path="debug-timeout.png", full_page=True)
+                print("[DEBUG] Saved screenshot: debug-timeout.png")
+            except Exception:
+                pass
+
             return None
 
         finally:
@@ -166,7 +261,8 @@ def update_w3u(new_params):
         if not old_url:
             continue
 
-        if "playbackUrlPrefix=" in old_url:
+        # อัปเดตเฉพาะลิงก์ที่เคยมี playbackUrlPrefix
+        if "playbackUrlPrefix=" in old_url or "playbackurlprefix=" in old_url.lower():
             base_url = old_url.split("?", 1)[0]
             station["url"] = f"{base_url}?{new_params}"
             updated_count += 1
