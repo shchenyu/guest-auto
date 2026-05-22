@@ -3,6 +3,7 @@ import json
 import re
 import os
 from datetime import datetime
+from copy import deepcopy
 from playwright.async_api import async_playwright
 
 
@@ -12,25 +13,42 @@ from playwright.async_api import async_playwright
 
 W3U_FILE = "Hub.w3u"
 
-# ใช้โดเมนนี้ให้ตรงกับ cookie ที่เจอใน DevTools
-TARGET_URL = "https://aisplay.ais.th/portal/live/?vid=59592e08bf6aee4e3ecce051"
+# URL หลักที่หน้า /portal/live ใช้ได้
+TARGET_URLS = [
+    "https://aisplay.ais.co.th/portal/live/?vid=59592e08bf6aee4e3ecce051",
+    "https://aisplay.ais.th/portal/live/?vid=59592e08bf6aee4e3ecce051",
+]
 
 
 # ============================================================
 # COOKIE HELPER
 # ============================================================
 
-def normalize_cookie(cookie):
-    """
-    ปรับรูปแบบ cookie ให้ Playwright ใช้ได้
-    รองรับ cookie จาก Cookie-Editor / Chrome DevTools
-    """
+def normalize_same_site(value):
+    if not value:
+        return None
+
+    value = str(value).lower()
+
+    if value in ["no_restriction", "none"]:
+        return "None"
+
+    if value in ["lax", "lax_mode"]:
+        return "Lax"
+
+    if value in ["strict", "strict_mode"]:
+        return "Strict"
+
+    return None
+
+
+def normalize_cookie(cookie, override_domain=None):
     item = {}
 
     item["name"] = cookie.get("name")
     item["value"] = cookie.get("value", "")
 
-    domain = cookie.get("domain")
+    domain = override_domain or cookie.get("domain")
     if domain:
         item["domain"] = domain
 
@@ -43,16 +61,9 @@ def normalize_cookie(cookie):
     item["httpOnly"] = bool(cookie.get("httpOnly", False))
     item["secure"] = bool(cookie.get("secure", True))
 
-    same_site = cookie.get("sameSite")
+    same_site = normalize_same_site(cookie.get("sameSite"))
     if same_site:
-        same_site = str(same_site).lower()
-
-        if same_site in ["no_restriction", "none"]:
-            item["sameSite"] = "None"
-        elif same_site in ["lax", "lax_mode"]:
-            item["sameSite"] = "Lax"
-        elif same_site in ["strict", "strict_mode"]:
-            item["sameSite"] = "Strict"
+        item["sameSite"] = same_site
 
     return item
 
@@ -81,11 +92,43 @@ async def load_ais_cookies(context):
 
             domain = str(c.get("domain", "")).lower()
 
-            # รับเฉพาะ cookie ที่เกี่ยวกับ AIS
             if "ais" not in domain:
                 continue
 
+            # ใส่ cookie ตาม domain จริงจาก browser
             cookies.append(normalize_cookie(c))
+
+            # เพิ่มสำเนาให้ aisplay.ais.co.th ด้วย
+            c2 = deepcopy(c)
+            c2["domain"] = "aisplay.ais.co.th"
+            cookies.append(normalize_cookie(c2))
+
+            # เพิ่มสำเนาให้ .aisplay.ais.co.th ด้วย
+            c3 = deepcopy(c)
+            c3["domain"] = ".aisplay.ais.co.th"
+            cookies.append(normalize_cookie(c3))
+
+            # เพิ่มสำเนาให้ aisplay.ais.th ด้วย
+            c4 = deepcopy(c)
+            c4["domain"] = "aisplay.ais.th"
+            cookies.append(normalize_cookie(c4))
+
+            # เพิ่มสำเนาให้ .aisplay.ais.th ด้วย
+            c5 = deepcopy(c)
+            c5["domain"] = ".aisplay.ais.th"
+            cookies.append(normalize_cookie(c5))
+
+        # กัน cookie ซ้ำ
+        unique = {}
+        for c in cookies:
+            key = (
+                c.get("name"),
+                c.get("domain"),
+                c.get("path"),
+            )
+            unique[key] = c
+
+        cookies = list(unique.values())
 
         if not cookies:
             print("[COOKIE] No valid AIS cookies")
@@ -101,8 +144,45 @@ async def load_ais_cookies(context):
 
 
 # ============================================================
-# GET NEW PARAMS
+# BROWSER / SNIFFER
 # ============================================================
+
+async def try_open_target(page, target_url):
+    print("[OPEN]", target_url)
+
+    try:
+        response = await page.goto(
+            target_url,
+            wait_until="domcontentloaded",
+            timeout=90000,
+        )
+
+        await asyncio.sleep(8)
+
+        status = response.status if response else "NO_RESPONSE"
+        print("[OPEN STATUS]", status)
+
+        try:
+            print("[PAGE URL]", page.url)
+            print("[PAGE TITLE]", await page.title())
+
+            body_text = await page.locator("body").inner_text(timeout=15000)
+            body_text = re.sub(r"\s+", " ", body_text).strip()
+            print("[PAGE TEXT]", body_text[:3000])
+        except Exception as e:
+            print("[DEBUG] Cannot read page text:", str(e))
+
+        # ถ้าเจอ 404 ให้ caller ลอง URL ถัดไป
+        if status == 404:
+            print("[OPEN] This URL returned 404, try next URL")
+            return False
+
+        return True
+
+    except Exception as e:
+        print("[OPEN ERROR]", str(e))
+        return False
+
 
 async def get_new_params():
     print("[SNIFFER] Starting Headless Browser...")
@@ -156,12 +236,12 @@ async def get_new_params():
                 "ais",
                 "anevia",
                 "vidnt",
+                "iptvepg",
             ]
 
             if any(k in lower_url for k in keywords):
                 print("[REQ]", url[:1500])
 
-            # เงื่อนไขหลัก: m3u8 + playbackUrlPrefix
             if (
                 ".m3u8" in lower_url
                 and "playbackurlprefix" in lower_url
@@ -173,7 +253,6 @@ async def get_new_params():
                     found_params.set_result(params)
                     return
 
-            # เงื่อนไขสำรอง: เจอ m3u8 และมี query string
             if (
                 ".m3u8" in lower_url
                 and "?" in url
@@ -200,6 +279,7 @@ async def get_new_params():
                 "ais",
                 "anevia",
                 "vidnt",
+                "iptvepg",
             ]
 
             if any(k in lower_url for k in keywords):
@@ -216,25 +296,18 @@ async def get_new_params():
         page.on("requestfailed", handle_request_failed)
 
         try:
-            print("[OPEN]", TARGET_URL)
+            opened = False
 
-            await page.goto(
-                TARGET_URL,
-                wait_until="domcontentloaded",
-                timeout=90000,
-            )
+            for target_url in TARGET_URLS:
+                ok = await try_open_target(page, target_url)
+                if ok:
+                    opened = True
+                    break
 
-            await asyncio.sleep(8)
-
-            try:
-                print("[PAGE URL]", page.url)
-                print("[PAGE TITLE]", await page.title())
-
-                body_text = await page.locator("body").inner_text(timeout=15000)
-                body_text = re.sub(r"\s+", " ", body_text).strip()
-                print("[PAGE TEXT]", body_text[:3000])
-            except Exception as e:
-                print("[DEBUG] Cannot read page text:", str(e))
+            if not opened:
+                print("[ERROR] Cannot open any target URL")
+                await page.screenshot(path="debug-timeout.png", full_page=True)
+                return None
 
             try:
                 await page.screenshot(path="debug-open.png", full_page=True)
@@ -242,7 +315,7 @@ async def get_new_params():
             except Exception as e:
                 print("[DEBUG] Cannot save debug-open.png:", str(e))
 
-            # ปุ่มที่อาจต้องกดหลัง cookie login แล้ว
+            # ปุ่มที่อาจต้องกด
             selectors = [
                 "button.login-type-btn.guest",
                 "button.accept-btn",
@@ -290,7 +363,7 @@ async def get_new_params():
             except Exception as e:
                 print("[DEBUG] Cannot read after-click text:", str(e))
 
-            # กดปุ่ม play
+            # ลองกด play
             play_selectors = [
                 "button[aria-label='Play']",
                 "button:has-text('Play')",
@@ -314,7 +387,6 @@ async def get_new_params():
                 except Exception:
                     pass
 
-            # สั่ง video.play() ผ่าน JavaScript
             try:
                 await page.evaluate(
                     """
@@ -391,7 +463,6 @@ def load_json_with_fix(path):
     with open(path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # ลบ comma เกิน เช่น ,] หรือ ,}
     content = re.sub(r",(\s*[\]}])", r"\1", content)
 
     return json.loads(content)
