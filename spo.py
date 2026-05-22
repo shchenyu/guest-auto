@@ -59,13 +59,21 @@ def setup_driver():
 def get_base_date_from_dayname(day_name_str):
     # ปรับเวลาเป็นไทยก่อนคำนวณหาวัน
     today = datetime.utcnow() + timedelta(hours=7)
-    today_idx = today.weekday()
+    # หาวันจันทร์ของสัปดาห์นี้เป็นจุดอ้างอิง
+    start_of_week = today - timedelta(days=today.weekday()) 
+    
     target_idx = DAY_NAME_MAP.get(day_name_str.upper())
     if target_idx is None: return None
-    diff = target_idx - today_idx
-    if diff > 3: diff -= 7
-    elif diff < -3: diff += 7
-    return today + timedelta(days=diff)
+    
+    # คำนวณหาวันเป้าหมายในสัปดาห์ปัจจุบัน
+    target_date = start_of_week + timedelta(days=target_idx)
+    
+    # [BUG FIXED]: ถ้าวันเป้าหมายผ่านไปแล้วมากกว่า 3 วัน (เช่น วันนี้วันศุกร์ แต่ตารางขึ้น MONDAY)
+    # ให้ถือว่าเป็นวันของสัปดาห์หน้า เพื่อป้องกันการดึงตารางของสัปดาห์ที่แล้วมาแสดง
+    if (target_date.date() - today.date()).days < -3:
+        target_date += timedelta(days=7)
+        
+    return target_date
 
 def extract_channel_name(url):
     try:
@@ -220,9 +228,9 @@ def generate_json_final(processed_matches):
     today_str = now_th.strftime('%d/%m/%Y')
     
     output = {
-        "name": f"ดู sportsonline.cv update @{today_str}",
+        "name": f"ดู sportsonline.vc update @{today_str}", # [BUG FIXED] แก้พิมพ์ผิดจาก .cv เป็น .vc
         "author": f"Update@{today_str}",
-        "info": f"sportsonline.cv Update@{today_str}",
+        "info": f"sportsonline.vc Update@{today_str}", # [BUG FIXED] แก้พิมพ์ผิดจาก .cv เป็น .vc
         "image": HEADER_IMAGE,
         "groups": final_groups
     }
