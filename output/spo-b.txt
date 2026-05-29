@@ -1,7 +1,7 @@
 {
-  "name": "ดู sportsonline.vc update @28/05/2026",
-  "author": "Update@28/05/2026",
-  "info": "sportsonline.vc Update@28/05/2026",
+  "name": "ดู sportsonline.vc update @29/05/2026",
+  "author": "Update@29/05/2026",
+  "info": "sportsonline.vc Update@29/05/2026",
   "image": "https://img2.pic.in.th/Gemini_Generated_Image_6jd8dr6jd8dr6jd8-1.md.png",
   "groups": [
     {
@@ -96,34 +96,34 @@
         },
         {
           "name": "06:00 Palmeiras x Junior",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/11584.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd5.php",
           "referer": "https://sportsonline.vc/",
-          "info": "hd5",
+          "info": "Serie A Betano-hd5",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "06:00 Palmeiras x Junior",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/11584.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd11.php",
           "referer": "https://sportsonline.vc/",
-          "info": "hd11",
+          "info": "Serie A Betano-hd11",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "06:00 Palmeiras x Junior",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/11584.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
           "referer": "https://sportsonline.vc/",
-          "info": "sporttv1",
+          "info": "Serie A Betano-sporttv1",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "06:00 Palmeiras x Junior",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/11584.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/bra/br4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "br4",
+          "info": "Serie A Betano-br4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
@@ -136,10 +136,10 @@
         },
         {
           "name": "07:00 WRC: Japan Rally - Special 1, 2 & 3",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/3798.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "sporttv4",
+          "info": "Friendly International-sporttv4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
@@ -152,7 +152,7 @@
         },
         {
           "name": "08:30 Cruzeiro x Barcelona",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/858.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
           "referer": "https://sportsonline.vc/",
           "info": "sporttv1",
@@ -192,15 +192,15 @@
         },
         {
           "name": "08:30 Tigre x Alianza AtlÃ©tico",
-          "image": "https://cdn.resfu.com/img_data/equipos/10277.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd8.php",
           "referer": "https://sportsonline.vc/",
-          "info": "CONCACAF Champions Cup-hd8",
+          "info": "hd8",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "08:30 Cruzeiro x Barcelona SC",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/858.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
           "referer": "https://sportsonline.vc/",
           "info": "sporttv1",
@@ -208,7 +208,7 @@
         },
         {
           "name": "08:30 Cruzeiro x Barcelona SC",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/858.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/bra/br2.php",
           "referer": "https://sportsonline.vc/",
           "info": "br2",
@@ -358,7 +358,7 @@
         },
         {
           "name": "02:00 Fluminense U17 x Santos U17",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/858.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/bra/br1.php",
           "referer": "https://sportsonline.vc/",
           "info": "br1",
@@ -398,10 +398,10 @@
         },
         {
           "name": "04:00 Internacional U17 x Flamengo U17",
-          "image": "https://cdn.resfu.com/img_data/equipos/1155.png?size=120x&lossy=1",
+          "image": "https://cdn.resfu.com/img_data/equipos/5544.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/bra/br1.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Serie A Betano-br1",
+          "info": "br1",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
@@ -414,10 +414,10 @@
         },
         {
           "name": "06:30 WRC: Rally Japan - Special 7",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/3798.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "sporttv4",
+          "info": "Friendly International-sporttv4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
@@ -430,18 +430,18 @@
         },
         {
           "name": "07:30 WRC: Rally Japan - Special 8",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/3798.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "sporttv4",
+          "info": "Friendly International-sporttv4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "07:30 Flamengo U20 x SÃ£o Paulo U20",
-          "image": "https://cdn.resfu.com/img_data/equipos/1155.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/bra/br1.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Serie A Betano-br1",
+          "info": "br1",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
@@ -478,26 +478,26 @@
         },
         {
           "name": "09:30 WRC: Rally Japan - Special 9",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/3798.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "sporttv4",
+          "info": "Friendly International-sporttv4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "12:00 WRC: Rally Japan - Special 10",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/3798.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "sporttv4",
+          "info": "Friendly International-sporttv4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "13:30 WRC: Rally Japan - Special 11",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/3798.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "sporttv4",
+          "info": "Friendly International-sporttv4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
@@ -526,10 +526,10 @@
         },
         {
           "name": "14:45 WRC: Rally Japan - Special 12, 13 & 14",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/3798.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "sporttv4",
+          "info": "Friendly International-sporttv4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
@@ -622,18 +622,18 @@
         },
         {
           "name": "20:00 Scotland x CuraÃ§ao",
-          "image": "https://cdn.resfu.com/img_data/equipos/3758.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd9.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Friendly International-hd9",
+          "info": "hd9",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "20:00 Scotland x CuraÃ§ao",
-          "image": "https://cdn.resfu.com/img_data/equipos/3758.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Friendly International-sporttv1",
+          "info": "sporttv1",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
@@ -676,122 +676,122 @@
       "stations": [
         {
           "name": "00:00 PSG x Arsenal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1924.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd1.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Champions League-hd1",
+          "info": "hd1",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "00:00 PSG x Arsenal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1924.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd5.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Champions League-hd5",
+          "info": "hd5",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "00:00 PSG x Arsenal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1924.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd3.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Champions League-hd3",
+          "info": "hd3",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "00:00 PSG x Arsenal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1924.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Champions League-hd4",
+          "info": "hd4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "00:00 PSG x Arsenal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1924.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Champions League-hd6",
+          "info": "hd6",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "00:00 PSG x Arsenal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1924.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd7.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Champions League-hd7",
+          "info": "hd7",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "00:00 PSG x Arsenal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1924.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd8.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Champions League-hd8",
+          "info": "hd8",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "00:00 PSG x Arsenal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1924.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd9.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Champions League-hd9",
+          "info": "hd9",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "00:00 PSG x Arsenal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1924.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd10.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Champions League-hd10",
+          "info": "hd10",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "00:00 PSG x Arsenal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1924.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd11.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Champions League-hd11",
+          "info": "hd11",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "00:00 PSG x Arsenal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1924.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv5.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Champions League-sporttv5",
+          "info": "sporttv5",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "00:00 PSG x Arsenal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1924.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/bra/br3.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Champions League-br3",
+          "info": "br3",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "00:00 PSG x Arsenal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1924.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/bra/br4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Champions League-br4",
+          "info": "br4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "02:30 Gimnasia Jujuy x Belgrano",
-          "image": "https://cdn.resfu.com/img_data/equipos/3716.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd8.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Copa Argentina-hd8",
+          "info": "hd8",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "03:00 La Serena x Colo-Colo",
-          "image": "https://cdn.resfu.com/img_data/equipos/682.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd10.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Liga de Primera-hd10",
+          "info": "hd10",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
@@ -804,18 +804,18 @@
         },
         {
           "name": "03:00 Flamengo x Coritiba",
-          "image": "https://cdn.resfu.com/img_data/equipos/1155.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/bra/br1.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Serie A Betano-br1",
+          "info": "br1",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "03:00 Athletico-PR x Mirassol",
-          "image": "https://cdn.resfu.com/img_data/equipos/374.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/bra/br4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Serie A Betano-br4",
+          "info": "br4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
@@ -836,26 +836,26 @@
         },
         {
           "name": "04:30 GrÃªmio x Corinthians",
-          "image": "https://cdn.resfu.com/img_data/equipos/1256.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/bra/br2.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Serie A Betano-br2",
+          "info": "br2",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "04:30 Bahia x Botafogo",
-          "image": "https://cdn.resfu.com/img_data/equipos/3910.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/bra/br5.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Serie A Betano-br5",
+          "info": "br5",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "05:00 Instituto x LanÃºs",
-          "image": "https://cdn.resfu.com/img_data/equipos/3068.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd8.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Copa Argentina-hd8",
+          "info": "hd8",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
@@ -868,90 +868,90 @@
         },
         {
           "name": "07:00 Santos x VitÃ³ria",
-          "image": "https://cdn.resfu.com/img_data/equipos/2270.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/bra/br1.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Serie A Betano-br1",
+          "info": "br1",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "07:30 Ecuador x Saudi Arabia",
-          "image": "https://cdn.resfu.com/img_data/equipos/3771.png?size=120x&lossy=1",
+          "image": "https://cdn.resfu.com/img_data/equipos/63596.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Friendly International-hd6",
+          "info": "Maurice Revello Tournament-hd6",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "07:30 Ecuador x Saudi Arabia",
-          "image": "https://cdn.resfu.com/img_data/equipos/3771.png?size=120x&lossy=1",
+          "image": "https://cdn.resfu.com/img_data/equipos/63596.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd5.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Friendly International-hd5",
+          "info": "Maurice Revello Tournament-hd5",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "08:00 Toluca x Tigres UANL",
-          "image": "https://cdn.resfu.com/img_data/equipos/10277.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd11.php",
           "referer": "https://sportsonline.vc/",
-          "info": "CONCACAF Champions Cup-hd11",
+          "info": "hd11",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "08:00 Toluca x Tigres UANL",
-          "image": "https://cdn.resfu.com/img_data/equipos/10277.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd9.php",
           "referer": "https://sportsonline.vc/",
-          "info": "CONCACAF Champions Cup-hd9",
+          "info": "hd9",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "08:00 Toluca x Tigres UANL",
-          "image": "https://cdn.resfu.com/img_data/equipos/10277.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv2.php",
           "referer": "https://sportsonline.vc/",
-          "info": "CONCACAF Champions Cup-sporttv2",
+          "info": "sporttv2",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "08:00 WRC: Rally Japan - Special 16",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/3798.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "sporttv4",
+          "info": "Friendly International-sporttv4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "09:00 Korea Republic x Trinidad and Tobago",
-          "image": "https://cdn.resfu.com/img_data/equipos/3804.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd8.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Friendly International-hd8",
+          "info": "hd8",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "09:15 WRC: Rally Japan - Special 17 & 18",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/3798.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "sporttv4",
+          "info": "Friendly International-sporttv4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "10:00 Mexico x Australia",
-          "image": "https://cdn.resfu.com/img_data/equipos/3811.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php",
           "referer": "https://sportsonline.vc/",
-          "info": "Friendly International-hd6",
+          "info": "hd6",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
           "name": "11:15 WRC: Rally Japan - Special 19",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "image": "https://cdn.resfu.com/img_data/equipos/3798.png?size=120x&lossy=1",
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
           "referer": "https://sportsonline.vc/",
-          "info": "sporttv4",
+          "info": "Friendly International-sporttv4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         }
       ]
