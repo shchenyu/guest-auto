@@ -1,403 +1,13 @@
 {
-  "name": "ดู sportsonline.vc update @05/06/2026",
-  "author": "Update@05/06/2026",
-  "info": "sportsonline.vc Update@05/06/2026",
+  "name": "ดู sportsonline.vc update @06/06/2026",
+  "author": "Update@06/06/2026",
+  "info": "sportsonline.vc Update@06/06/2026",
   "image": "https://img2.pic.in.th/Gemini_Generated_Image_6jd8dr6jd8dr6jd8-1.md.png",
   "groups": [
     {
       "name": "วันที่ 5/6/69",
       "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
       "stations": [
-        {
-          "name": "03:00 Spain x Iraq",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Spain x Iraq",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd6",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Spain x Iraq",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Spain x Iraq",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/bra/br2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:10 France x CÃ´te d'Ivoire",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd3.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd3",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:10 France x CÃ´te d'Ivoire",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd4.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd4",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:10 France x CÃ´te d'Ivoire",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd8.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:10 France x CÃ´te d'Ivoire",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:10 France x CÃ´te d'Ivoire",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/bra/br1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "08:00 Czech Republic x Guatemala",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd10.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd10",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "08:00 Czech Republic x Guatemala",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/bra/br1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "08:00 UFC BJJ: Fowler x Johnson",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "UFC-sporttv1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "08:00 NHL: Carolina Hurricanes @ Vegas Goldcen Knights",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv3.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv3",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "10:00 Mexico x Serbia",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd5",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "15:00 MotoGP: Hungary FP1",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "MotoGP-hd2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "15:00 MotoGP: Hungary FP1",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "MotoGP-sporttv4",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "15:00 MotoGP: Hungary FP1",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/bra/br6.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "MotoGP-br6",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "19:00 Golf: DP World Tour - KLM Open D2",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv3.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv3",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "19:00 Formula 1: Monaco Grand Prix: Practice 1",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "F1-hd5",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "19:00 Formula 1: Monaco Grand Prix: Practice 1",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd7.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "F1-hd7",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "19:15 MotoGP: Hungary Practice",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "MotoGP-hd2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "19:15 MotoGP: Hungary Practice",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "MotoGP-sporttv4",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "19:15 MotoGP: Hungary Practice",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/bra/br6.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "MotoGP-br6",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "21:00 Indonesia x Oman",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd11.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd11",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "21:00 Colombia U20 x China PR U20",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd6",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "21:00 Colombia U20 x China PR U20",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "22:00 Azerbaijan W x Hungary W",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd4.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd4",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "22:30 Formula 1: Monaco Grand Prix: Practice 2",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "F1-hd5",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "22:30 Formula 1: Monaco Grand Prix: Practice 2",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd7.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "F1-hd7",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        }
-      ]
-    },
-    {
-      "name": "วันที่ 6/6/69",
-      "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-      "stations": [
-        {
-          "name": "00:00 Belarus x Syria",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd10.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd10",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "00:00 Georgia x Bahrain",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd9.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd9",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "00:30 Slovakia x Montenegro",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd8.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "00:30 Saudi Arabia U23 x Tunisia U20",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd6",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "00:30 Saudi Arabia U23 x Tunisia U20",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "00:30 Tennis: Roland-Garros Semi-Final",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "Tennis-hd1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "01:00 Russia x Burkina Faso",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd11.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd11",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "01:00 Moldova x Bulgaria",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd5.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd5",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "01:00 San Marino x Bangladesh",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "01:00 Volleyball: Portugal x Denmark",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "Volleyball-sporttv1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "01:45 Hungary x Finland",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd4.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd4",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "02:00 Azerbaijan x Malta",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "02:35 Germany W x Norway W",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd3.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd3",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "02:35 Germany W x Norway W",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/bra/br6.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br6",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Spain W x England W",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd9.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd9",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Spain W x England W",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/bra/br2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "06:15 Paraguay x Nicaragua",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd8.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "07:30 Canada x Ireland Republic",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/hd/hd1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "07:30 Boxing: Vazquez x Lugo",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://ww2.sporttsonline.click/channels/bra/br6.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "Boxing-br6",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
         {
           "name": "08:00 Haiti x Peru",
           "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
@@ -413,7 +23,13 @@
           "referer": "https://sportsonline.vc/",
           "info": "Basketball-hd2",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
+        }
+      ]
+    },
+    {
+      "name": "วันที่ 6/6/69",
+      "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+      "stations": [
         {
           "name": "14:30 Moto2/3: Hungary FP2",
           "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
@@ -946,6 +562,348 @@
           "url": "https://ww2.sporttsonline.click/channels/pt/sporttv2.php",
           "referer": "https://sportsonline.vc/",
           "info": "sporttv2",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "16:00 Moto3: GP of Hungary",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd2",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "16:00 Moto3: GP of Hungary",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "sporttv4",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "16:00 Moto3: GP of Hungary",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/bra/br6.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "br6",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "18:00 Moto2: GP of Hungary",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd2",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "18:00 Moto2: GP of Hungary",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "sporttv4",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "18:00 Moto2: GP of Hungary",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/bra/br6.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "br6",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "19:00 Golf: DP World Tour - KLM Open D4",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv3.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "sporttv3",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "19:15 MotoGP: GP of Hungary",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "MotoGP-hd2",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "19:15 MotoGP: GP of Hungary",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv4.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "MotoGP-sporttv4",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "19:15 MotoGP: GP of Hungary",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/bra/br6.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "MotoGP-br6",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "20:00 Roland-Garros Men's Final",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd10.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd10",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "21:00 Liechtenstein x Cyprus",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "21:00 Liechtenstein x Cyprus",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/bra/br1.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "br1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "21:00 Congo DR U20 x Colombia U20",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "sporttv1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "21:00 Oman x Mozambique",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd11.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd11",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "21:00 Formula 1: Monaco F1 Grand Prix",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd5.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "F1-hd5",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "21:00 Formula 1: Monaco F1 Grand Prix",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd3.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "F1-hd3",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "21:00 Formula 1: Monaco F1 Grand Prix",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "F1-hd6",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "21:00 Formula 1: Monaco F1 Grand Prix",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd7.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "F1-hd7",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "21:00 Formula 1: Monaco F1 Grand Prix",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/bra/br3.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "F1-br3",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        }
+      ]
+    },
+    {
+      "name": "วันที่ 8/6/69",
+      "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+      "stations": [
+        {
+          "name": "00:00 Ascoli x Union Brescia",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd8.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "00:30 Denmark x Ukraine",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "00:30 Denmark x Ukraine",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "sporttv1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "00:30 Denmark x Ukraine",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/bra/br1.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "br1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "00:30 China PR U20 x Tunisia U20",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv3.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "sporttv3",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "01:00 Kosovo x Andorra",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd9.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd9",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "02:45 Croatia x Slovenia",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd1.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "02:45 Croatia x Slovenia",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd8.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "02:45 Croatia x Slovenia",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd4.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd4",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "02:45 Croatia x Slovenia",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv2.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "sporttv2",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "03:00 Greece x Italy",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd2",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "03:00 Greece x Italy",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd3.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd3",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "03:00 Greece x Italy",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd7.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd7",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "03:00 Greece x Italy",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "sporttv1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "03:00 Greece x Italy",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/bra/br2.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "br2",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "03:00 Morocco x Norway",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd10.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd10",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "03:00 Morocco x Norway",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd6",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "03:00 Morocco x Norway",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd11.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd11",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "04:00 Ecuador x Guatemala",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd9.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd9",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "07:00 Colombia x Jordan",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "hd6",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "07:00 Colombia x Jordan",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/pt/sporttv1.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "sporttv1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
+          "name": "07:00 Colombia x Jordan",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://ww2.sporttsonline.click/channels/bra/br1.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "br1",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         }
       ]
