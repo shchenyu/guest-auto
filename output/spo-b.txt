@@ -1,7 +1,7 @@
 {
-  "name": "ดู sportsonline.vc update @11/07/2026",
-  "author": "Update@11/07/2026",
-  "info": "sportsonline.vc Update@11/07/2026",
+  "name": "ดู sportsonline.vc update @12/07/2026",
+  "author": "Update@12/07/2026",
+  "info": "sportsonline.vc Update@12/07/2026",
   "image": "https://img2.pic.in.th/Gemini_Generated_Image_6jd8dr6jd8dr6jd8-1.md.png",
   "groups": [
     {
@@ -98,7 +98,7 @@
         },
         {
           "name": "20:00 Olympiakos Piraeus x OH Leuven",
-          "image": "https://cdn.resfu.com/img_data/equipos/5801.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd10.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd10",
@@ -130,7 +130,7 @@
         },
         {
           "name": "21:00 WisÅa KrakÃ³w x Wrexham",
-          "image": "https://cdn.resfu.com/img_data/equipos/2757.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd9.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd9",
@@ -138,7 +138,7 @@
         },
         {
           "name": "21:00 Rugby: Fiji x England",
-          "image": "https://cdn.resfu.com/img_data/equipos/3759.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/pt/sporttv2.php",
           "referer": "https://sportsonline.vc/",
           "info": "sporttv2",
@@ -168,7 +168,7 @@
       "stations": [
         {
           "name": "02:30 Benfica x Flamengo",
-          "image": "https://cdn.resfu.com/img_data/equipos/466.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/pt/eleven3.php",
           "referer": "https://sportsonline.vc/",
           "info": "eleven3",
@@ -176,7 +176,7 @@
         },
         {
           "name": "02:30 Benfica x Flamengo",
-          "image": "https://cdn.resfu.com/img_data/equipos/466.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/bra/br1.php",
           "referer": "https://sportsonline.vc/",
           "info": "br1",
@@ -184,7 +184,7 @@
         },
         {
           "name": "03:00 Rugby: Argentina x Wales",
-          "image": "https://cdn.resfu.com/img_data/equipos/3770.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/pt/sporttv2.php",
           "referer": "https://sportsonline.vc/",
           "info": "sporttv2",
@@ -192,7 +192,7 @@
         },
         {
           "name": "05:00 Norway x England",
-          "image": "https://cdn.resfu.com/img_data/equipos/3759.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd1.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd1",
@@ -200,7 +200,7 @@
         },
         {
           "name": "05:00 Norway x England",
-          "image": "https://cdn.resfu.com/img_data/equipos/3759.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd2.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd2",
@@ -208,7 +208,7 @@
         },
         {
           "name": "05:00 Norway x England",
-          "image": "https://cdn.resfu.com/img_data/equipos/3759.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd3.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd3",
@@ -216,7 +216,7 @@
         },
         {
           "name": "05:00 Norway x England",
-          "image": "https://cdn.resfu.com/img_data/equipos/3759.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd4.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd4",
@@ -224,7 +224,7 @@
         },
         {
           "name": "05:00 Norway x England",
-          "image": "https://cdn.resfu.com/img_data/equipos/3759.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd6.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd6",
@@ -232,7 +232,7 @@
         },
         {
           "name": "05:00 Norway x England",
-          "image": "https://cdn.resfu.com/img_data/equipos/3759.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd7.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd7",
@@ -240,7 +240,7 @@
         },
         {
           "name": "05:00 Norway x England",
-          "image": "https://cdn.resfu.com/img_data/equipos/3759.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd8.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd8",
@@ -248,7 +248,7 @@
         },
         {
           "name": "05:00 Norway x England",
-          "image": "https://cdn.resfu.com/img_data/equipos/3759.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd9.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd9",
@@ -256,7 +256,7 @@
         },
         {
           "name": "05:00 Norway x England",
-          "image": "https://cdn.resfu.com/img_data/equipos/3759.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd11.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd11",
@@ -264,7 +264,7 @@
         },
         {
           "name": "05:00 Norway x England",
-          "image": "https://cdn.resfu.com/img_data/equipos/3759.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/pt/sporttv5.php",
           "referer": "https://sportsonline.vc/",
           "info": "sporttv5",
@@ -272,7 +272,7 @@
         },
         {
           "name": "05:00 Norway x England",
-          "image": "https://cdn.resfu.com/img_data/equipos/3759.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/bra/br2.php",
           "referer": "https://sportsonline.vc/",
           "info": "br2",
@@ -296,7 +296,7 @@
         },
         {
           "name": "09:00 Argentina X Switzerland",
-          "image": "https://cdn.resfu.com/img_data/equipos/3770.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd2.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd2",
@@ -304,7 +304,7 @@
         },
         {
           "name": "09:00 Argentina X Switzerland",
-          "image": "https://cdn.resfu.com/img_data/equipos/3770.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd1.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd1",
@@ -312,7 +312,7 @@
         },
         {
           "name": "09:00 Argentina X Switzerland",
-          "image": "https://cdn.resfu.com/img_data/equipos/3770.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd3.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd3",
@@ -320,7 +320,7 @@
         },
         {
           "name": "09:00 Argentina X Switzerland",
-          "image": "https://cdn.resfu.com/img_data/equipos/3770.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd4.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd4",
@@ -328,7 +328,7 @@
         },
         {
           "name": "09:00 Argentina X Switzerland",
-          "image": "https://cdn.resfu.com/img_data/equipos/3770.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd6.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd6",
@@ -336,7 +336,7 @@
         },
         {
           "name": "09:00 Argentina X Switzerland",
-          "image": "https://cdn.resfu.com/img_data/equipos/3770.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd7.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd7",
@@ -344,7 +344,7 @@
         },
         {
           "name": "09:00 Argentina X Switzerland",
-          "image": "https://cdn.resfu.com/img_data/equipos/3770.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd8.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd8",
@@ -352,7 +352,7 @@
         },
         {
           "name": "09:00 Argentina X Switzerland",
-          "image": "https://cdn.resfu.com/img_data/equipos/3770.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd9.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd9",
@@ -360,7 +360,7 @@
         },
         {
           "name": "09:00 Argentina X Switzerland",
-          "image": "https://cdn.resfu.com/img_data/equipos/3770.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd10.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd10",
@@ -368,7 +368,7 @@
         },
         {
           "name": "09:00 Argentina X Switzerland",
-          "image": "https://cdn.resfu.com/img_data/equipos/3770.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/pt/sporttv5.php",
           "referer": "https://sportsonline.vc/",
           "info": "sporttv5",
@@ -376,7 +376,7 @@
         },
         {
           "name": "09:00 Argentina X Switzerland",
-          "image": "https://cdn.resfu.com/img_data/equipos/3770.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/bra/br2.php",
           "referer": "https://sportsonline.vc/",
           "info": "br2",
@@ -526,7 +526,7 @@
         },
         {
           "name": "02:00 Pumas UNAM x AmÃ©rica de Cali",
-          "image": "https://cdn.resfu.com/img_data/equipos/2035.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd10.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd10",
@@ -542,7 +542,7 @@
         },
         {
           "name": "03:00 Fluminense x Bahia",
-          "image": "https://cdn.resfu.com/img_data/equipos/1158.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/bra/br1.php",
           "referer": "https://sportsonline.vc/",
           "info": "br1",
@@ -550,7 +550,7 @@
         },
         {
           "name": "03:15 Independiente Rivadavia x Tigre",
-          "image": "https://cdn.resfu.com/img_data/equipos/6204.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/hd/hd8.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd8",
@@ -558,7 +558,7 @@
         },
         {
           "name": "03:15 Independiente Rivadavia x Tigre",
-          "image": "https://cdn.resfu.com/img_data/equipos/6204.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/pt/sporttv1.php",
           "referer": "https://sportsonline.vc/",
           "info": "sporttv1",
@@ -566,7 +566,7 @@
         },
         {
           "name": "06:00 CRB x GoiÃ¡s",
-          "image": "https://cdn.resfu.com/img_data/equipos/15135.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://v4.sportsonlinne.click/channels/bra/br3.php",
           "referer": "https://sportsonline.vc/",
           "info": "br3",
