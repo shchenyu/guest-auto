@@ -1,7 +1,7 @@
 {
-  "name": "ดู sportsonline.vc update @13/07/2026",
-  "author": "Update@13/07/2026",
-  "info": "sportsonline.vc Update@13/07/2026",
+  "name": "ดู sportsonline.vc update @14/07/2026",
+  "author": "Update@14/07/2026",
+  "info": "sportsonline.vc Update@14/07/2026",
   "image": "https://img2.pic.in.th/Gemini_Generated_Image_6jd8dr6jd8dr6jd8-1.md.png",
   "groups": [
     {
@@ -234,20 +234,6 @@
           "url": "https://v4.sportsonlinne.click/channels/bra/br2.php",
           "referer": "https://sportsonline.vc/",
           "info": "br2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        }
-      ]
-    },
-    {
-      "name": "วันที่ 20/7/69",
-      "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-      "stations": [
-        {
-          "name": "06:00 CRB x GoiÃ¡s",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://v4.sportsonlinne.click/channels/bra/br3.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br3",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         }
       ]
