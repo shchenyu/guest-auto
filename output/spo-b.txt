@@ -1,7 +1,7 @@
 {
-  "name": "ดู sportsonline.vc update @08/09/2026",
-  "author": "Update@08/09/2026",
-  "info": "sportsonline.vc Update@08/09/2026",
+  "name": "ดู sportsonline.vc update @09/09/2026",
+  "author": "Update@09/09/2026",
+  "info": "sportsonline.vc Update@09/09/2026",
   "image": "https://img2.pic.in.th/Gemini_Generated_Image_6jd8dr6jd8dr6jd8-1.md.png",
   "groups": [
     {
