@@ -1,369 +1,13 @@
 {
-  "name": "ดู sportsonline.vc update @16/09/2026",
-  "author": "Update@16/09/2026",
-  "info": "sportsonline.vc Update@16/09/2026",
+  "name": "ดู sportsonline.vc update @17/09/2026",
+  "author": "Update@17/09/2026",
+  "info": "sportsonline.vc Update@17/09/2026",
   "image": "https://img2.pic.in.th/Gemini_Generated_Image_6jd8dr6jd8dr6jd8-1.md.png",
   "groups": [
-    {
-      "name": "วันที่ 15/9/69",
-      "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-      "stations": [
-        {
-          "name": "08:00 CRB x Sport Recife",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/bra/br6.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br6",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "08:30 SÃ£o Paulo x Boca Juniors",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd5.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd5",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "08:30 SÃ£o Paulo x Boca Juniors",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/sporttv1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "08:30 SÃ£o Paulo x Boca Juniors",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/bra/br2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "09:00 Puebla x Toluca",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd11.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd11",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        }
-      ]
-    },
     {
       "name": "วันที่ 16/9/69",
       "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
       "stations": [
-        {
-          "name": "22:00 Golf: BMW PGA Championship - Pro - AM",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/sporttv3.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv3",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "22:45 Kifisia x Panathinaikos",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd8.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        }
-      ]
-    },
-    {
-      "name": "วันที่ 17/9/69",
-      "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-      "stations": [
-        {
-          "name": "00:45 Ararat-Armenia x Sparta Praha",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd9.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd9",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "00:45 Omonia Nicosia x Celta de Vigo",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd4.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd4",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "00:45 Omonia Nicosia x Celta de Vigo",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd11.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd11",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "00:45 Omonia Nicosia x Celta de Vigo",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/eleven2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "eleven2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "01:00 AtlÃ©tico Madrid x Osasuna",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd6.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd6",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "01:00 AtlÃ©tico Madrid x Osasuna",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/eleven3.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "eleven3",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "01:00 Deportivo La CoruÃ±a x Sevilla",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd10.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd10",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "02:45 Everton x Wolverhampton Wanderers",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd5.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd5",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "02:45 Everton x Wolverhampton Wanderers",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/sporttv2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "02:45 Everton x Wolverhampton Wanderers",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/bra/br4.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br4",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Manchester United x Brighton & Hove Albion",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Manchester United x Brighton & Hove Albion",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/sporttv1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Manchester United x Brighton & Hove Albion",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/bra/br2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Milan x Benfica",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd11.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd11",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Milan x Benfica",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd7.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd7",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Milan x Benfica",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/sporttv5.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv5",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Anderlecht x Olympique Lyonnais",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd4.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd4",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Anderlecht x Olympique Lyonnais",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/eleven1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "eleven1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Bayer Leverkusen x Celje",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd3.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd3",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Sturm Graz x Rennes",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd9.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd9",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Sunderland x AZ",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd8.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd8",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Sunderland x AZ",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/eleven3.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "eleven3",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Coventry City x Aston Villa",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Coventry City x Aston Villa",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/sporttv3.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv3",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:00 Coventry City x Aston Villa",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/bra/br6.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br6",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:30 Barcelona x Racing Santander",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd6.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd6",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:30 Barcelona x Racing Santander",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/eleven2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "eleven2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:30 Barcelona x Racing Santander",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/bra/br5.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br5",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "03:30 Levante x Athletic Club",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd10.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd10",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "06:00 AtlÃ©tico Mineiro x Santos",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/hd/hd5.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "hd5",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "06:00 AtlÃ©tico Mineiro x Santos",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/sporttv2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "06:00 AtlÃ©tico Mineiro x Santos",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/bra/br2.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br2",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "06:00 LDU Quito x Palmeiras",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/sporttv1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "06:00 LDU Quito x Palmeiras",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/bra/br3.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br3",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "06:00 Independiente Rivadavia x AtlÃ©tico TucumÃ¡n",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/pt/sporttv3.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "sporttv3",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
-        {
-          "name": "06:30 Botafogo x GrÃªmio",
-          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
-          "url": "https://w6.sportsonliine.click/channels/bra/br1.php",
-          "referer": "https://sportsonline.vc/",
-          "info": "br1",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
         {
           "name": "07:15 Once Caldas x Deportes Tolima",
           "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
@@ -403,7 +47,13 @@
           "referer": "https://sportsonline.vc/",
           "info": "hd11",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
-        },
+        }
+      ]
+    },
+    {
+      "name": "วันที่ 17/9/69",
+      "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+      "stations": [
         {
           "name": "19:00 Golf: BMW PGA Championship - D1",
           "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
@@ -414,7 +64,7 @@
         },
         {
           "name": "22:45 AEK Athens x Panserraikos",
-          "image": "https://cdn.resfu.com/img_data/equipos/77.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd8.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd8",
@@ -428,15 +78,23 @@
       "stations": [
         {
           "name": "00:45 OFI x Hoffenheim",
-          "image": "https://cdn.resfu.com/img_data/equipos/1845.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd3.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd3",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
+          "name": "00:45 OFI x Hoffenheim",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://w6.sportsonliine.click/channels/pt/eleven3.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "eleven3",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
           "name": "00:45 Levski Sofia x Salzburg",
-          "image": "https://cdn.resfu.com/img_data/equipos/4011.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd11.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd11",
@@ -444,7 +102,7 @@
         },
         {
           "name": "00:45 Levski Sofia x Salzburg",
-          "image": "https://cdn.resfu.com/img_data/equipos/4011.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd4.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd4",
@@ -452,15 +110,23 @@
         },
         {
           "name": "00:45 Levski Sofia x Salzburg",
-          "image": "https://cdn.resfu.com/img_data/equipos/4011.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd7.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd7",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
+          "name": "00:45 Levski Sofia x Salzburg",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://w6.sportsonliine.click/channels/pt/eleven2.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "eleven2",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
           "name": "01:00 Real Betis x Getafe",
-          "image": "https://cdn.resfu.com/img_data/equipos/486.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd6.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd6",
@@ -468,7 +134,7 @@
         },
         {
           "name": "02:30 Manchester City x Norwich City",
-          "image": "https://cdn.resfu.com/img_data/equipos/1633.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd1.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd1",
@@ -476,7 +142,7 @@
         },
         {
           "name": "02:30 Manchester City x Norwich City",
-          "image": "https://cdn.resfu.com/img_data/equipos/1633.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/pt/sporttv1.php",
           "referer": "https://sportsonline.vc/",
           "info": "sporttv1",
@@ -484,7 +150,7 @@
         },
         {
           "name": "02:30 Manchester City x Norwich City",
-          "image": "https://cdn.resfu.com/img_data/equipos/1633.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/bra/br2.php",
           "referer": "https://sportsonline.vc/",
           "info": "br2",
@@ -492,7 +158,7 @@
         },
         {
           "name": "03:00 Real Sociedad x AFC Bournemouth",
-          "image": "https://cdn.resfu.com/img_data/equipos/2120.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd11.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd11",
@@ -500,15 +166,23 @@
         },
         {
           "name": "03:00 Real Sociedad x AFC Bournemouth",
-          "image": "https://cdn.resfu.com/img_data/equipos/2120.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd10.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd10",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
+          "name": "03:00 Real Sociedad x AFC Bournemouth",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://w6.sportsonliine.click/channels/pt/eleven2.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "eleven2",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
           "name": "03:00 Celtic x FerencvÃ¡ros",
-          "image": "https://cdn.resfu.com/img_data/equipos/716.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd5.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd5",
@@ -516,15 +190,23 @@
         },
         {
           "name": "03:00 BeÅiktaÅ x Olympique Marseille",
-          "image": "https://cdn.resfu.com/img_data/equipos/10065.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd4.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
+          "name": "03:00 BeÅiktaÅ x Olympique Marseille",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://w6.sportsonliine.click/channels/pt/eleven3.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "eleven3",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
           "name": "03:00 Crystal Palace x Lech PoznaÅ",
-          "image": "https://cdn.resfu.com/img_data/equipos/860.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd2.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd2",
@@ -532,7 +214,7 @@
         },
         {
           "name": "03:00 Juventus x NEC",
-          "image": "https://cdn.resfu.com/img_data/equipos/1430.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd7.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd7",
@@ -540,7 +222,7 @@
         },
         {
           "name": "03:00 Juventus x NEC",
-          "image": "https://cdn.resfu.com/img_data/equipos/1430.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/bra/br5.php",
           "referer": "https://sportsonline.vc/",
           "info": "br5",
@@ -548,7 +230,7 @@
         },
         {
           "name": "03:00 Viktoria PlzeÅ x Union Saint-Gilloise",
-          "image": "https://cdn.resfu.com/img_data/equipos/10054.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd8.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd8",
@@ -556,15 +238,23 @@
         },
         {
           "name": "03:00 LillestrÃ¸m x Torreense",
-          "image": "https://cdn.resfu.com/img_data/equipos/1557.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd9.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd9",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
         },
         {
+          "name": "03:00 LillestrÃ¸m x Torreense",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
+          "url": "https://w6.sportsonliine.click/channels/pt/eleven1.php",
+          "referer": "https://sportsonline.vc/",
+          "info": "eleven1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+        },
+        {
           "name": "03:30 MÃ¡laga x Villarreal",
-          "image": "https://cdn.resfu.com/img_data/equipos/1617.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd6.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd6",
@@ -588,7 +278,7 @@
         },
         {
           "name": "08:30 Flamengo x Independiente del Valle",
-          "image": "https://cdn.resfu.com/img_data/equipos/1155.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/hd/hd5.php",
           "referer": "https://sportsonline.vc/",
           "info": "hd5",
@@ -596,7 +286,7 @@
         },
         {
           "name": "08:30 Flamengo x Independiente del Valle",
-          "image": "https://cdn.resfu.com/img_data/equipos/1155.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/pt/sporttv1.php",
           "referer": "https://sportsonline.vc/",
           "info": "sporttv1",
@@ -604,7 +294,7 @@
         },
         {
           "name": "08:30 Flamengo x Independiente del Valle",
-          "image": "https://cdn.resfu.com/img_data/equipos/1155.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/bra/br2.php",
           "referer": "https://sportsonline.vc/",
           "info": "br2",
@@ -612,7 +302,7 @@
         },
         {
           "name": "08:30 Torque x Cienciano",
-          "image": "https://cdn.resfu.com/img_data/equipos/11246.png?size=120x&lossy=1",
+          "image": "https://img5.pic.in.th/file/secure-sv1/ChatGPT-Image-8-..-2569-16_53_16.md.png",
           "url": "https://w6.sportsonliine.click/channels/pt/sporttv2.php",
           "referer": "https://sportsonline.vc/",
           "info": "sporttv2",
